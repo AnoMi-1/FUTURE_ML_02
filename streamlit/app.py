@@ -3,7 +3,7 @@ from fastai.tabular.all import *
 import streamlit as st
 
 # Load the trained model
-learn = load_learner('/workspaces/codespaces-jupyter/streamlit/churn_model.pkl', cpu=True)
+learn = load_learner('streamlit/churn_model.pkl', cpu=True)
 
 # Streamlit app
 st.title('Churn Predictor')
