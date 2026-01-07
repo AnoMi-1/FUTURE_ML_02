@@ -1,6 +1,6 @@
 # Customer Churn Prediction System
 
-[![Streamlit App](static.streamlit.io)](futurechurnpredict.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](futurechurnpredict.streamlit.app)
 
 # Project Overview
 This project was developed for Task 2 of the Machine Learning Internship at Future Interns. The system identifies customers likely to stop using a service, allowing businesses to take proactive retention measures. 
