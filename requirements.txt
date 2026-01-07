@@ -1,8 +1,7 @@
-ipywidgets==8.1.2
-matplotlib==3.8.4
-pandas==2.2.2
-torch==2.8.0
-torchvision==0.23.0
-tqdm==4.66.4
-fonttools>=4.60.0
-filelock>=3.20.1
+streamlit==1.52.2
+fastai==2.8.4
+fastcore==1.8.13
+pandas==2.2.6
+numpy==2.0.2
+shap==0.49.1
+matplotlib
